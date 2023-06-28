@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\vs代码\数据结构\数据结构课设-文献管理系统\BTree.h(14,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+D:\vs代码\数据结构\数据结构课设-文献管理系统\test.cpp(109,15): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs代码\数据结构\数据结构课设-文献管理系统\test.cpp(109,15): message : 此参数用作缓冲区大小
+D:\vs代码\数据结构\数据结构课设-文献管理系统\test.cpp(141,14): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs代码\数据结构\数据结构课设-文献管理系统\test.cpp(141,14): message : 此参数用作缓冲区大小
+  数据结构课设-文献管理系统.vcxproj -> D:\vs代码\数据结构\数据结构课设-文献管理系统\x64\Debug\数据结构课设-文献管理系统.exe
